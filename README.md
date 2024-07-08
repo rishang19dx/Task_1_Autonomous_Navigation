@@ -11,7 +11,8 @@ This task involves using TurtleBot3 for autonomous navigation in a Gazebo simula
 3. [Mapping the Environment](#mapping-the-environment)
 4. [Autonomous Navigation](#autonomous-navigation)
 5. [Results](#results)
-6. [References](#references)
+6. [Images](#images)
+7. [References](#references)
 
 ## Prerequisites
 
@@ -109,6 +110,14 @@ Make sure all dependencies are installed. If not, follow these steps:
 
 - **Autonomous Navigation:**
   - The robot will autonomously navigate from point A to point B using the generated map and default planners.
+ 
+## Images
+
+### Map of the hospital
+![Map of the Hospital](Map_Hospital.png)
+
+### Autnomous Navigation in Progress
+![Autonomous Navigation in Progress](auto_nav.png)
 
 ## References
 

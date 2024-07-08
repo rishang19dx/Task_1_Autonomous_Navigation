@@ -83,7 +83,8 @@ Make sure all dependencies are installed. If not, follow these steps:
     - The generated map is published on the `/map2d` ros topic.
     - You can use the map_saver node from the map_server package inside ros navigation to save your generated map to a .pgm and .yaml file:
        ```bash
-       rosservice call /gazebo_2Dmap_plugin/generate_maprosrun map_server map_saver -f hospital /map:=/map2d
+       rosservice call /gazebo_2Dmap_plugin/generate_map
+       rosrun map_server map_saver -f hospital /map:=/map2d
        ```
     - The last map generated with the `/gazebo_2Dmap_plugin/generate_map` call is saved.
 

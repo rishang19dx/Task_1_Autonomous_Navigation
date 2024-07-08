@@ -1,0 +1,8 @@
+prefix=/home/rishang19_dx/task1_auto_nav/devel
+
+Name: gazebo_ros_2Dmap_plugin
+Description: Description of gazebo_ros_2Dmap_plugin
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

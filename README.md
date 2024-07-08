@@ -27,7 +27,7 @@ Ensure you have the following software installed:
 Clone the project repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git](https://github.com/rishang19dx/Task_1_Autonomous_Navigation.git
+git clone https://github.com/rishang19dx/Task_1_Autonomous_Navigation.git
 cd Task_1_Autonomous_Navigation
 ```
 
